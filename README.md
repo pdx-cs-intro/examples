@@ -9,3 +9,4 @@ State University.
 * `triangles.py`: Draw a picture using turtle graphics
 * `iodemo.py`: Trivial I/O demo
 * `ftoc.py`: Classic Fahrenheit to Celsius converter
+* `adding.py`: Simple "adding machine"
