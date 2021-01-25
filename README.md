@@ -10,3 +10,4 @@ State University.
 * `iodemo.py`: Trivial I/O demo
 * `ftoc.py`: Classic Fahrenheit to Celsius converter
 * `adding.py`: Simple "adding machine"
+* `while-for`: Example `while` and `for` loop programs
