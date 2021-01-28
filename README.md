@@ -13,3 +13,4 @@ State University.
 * `while-for/`: Examples with `while` and `for` loops
 * `functions/`: Examples with functions
 * `guestlist.py`: Example of list usage
+* `extract.py`: Generalization of list `pop()`
