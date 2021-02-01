@@ -14,3 +14,4 @@ State University.
 * `functions/`: Examples with functions
 * `guestlist.py`: Example of list usage
 * `extract.py`: Generalization of list `pop()`
+* `palindrome.py`: Check whether a string is a plaindrome
