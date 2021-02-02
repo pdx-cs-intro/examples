@@ -14,4 +14,6 @@ State University.
 * `functions/`: Examples with functions
 * `guestlist.py`: Example of list usage
 * `extract.py`: Generalization of list `pop()`
+* `alphabet.py`: Generate and print the English alphabet.
+* `collatz.py`: Recursive implementation of Collatz function.
 * `palindrome.py`: Check whether a string is a plaindrome
