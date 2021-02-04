@@ -17,4 +17,6 @@ State University.
 * `alphabet.py`: Generate and print the English alphabet.
 * `collatz.py`: Recursive implementation of Collatz function.
 * `palindrome.py`: Check whether a string is a plaindrome
+* `file-for.py`: Example of reading a file line-at-a-time.
+* `countfile.py`: Example of writing a file line-at-a-time.
 * `8-ball-files/`: Mattel Magic 8-Ball™ simulator with configuration files.
