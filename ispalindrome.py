@@ -33,7 +33,6 @@ def ispalindrome(string):
     # checking that the characters there match. Stop on
     # first failure.
     for i in range(nstring):
-        # XXX Here's a bug. See it?
         if string[i] != string[nstring - i - 1]:
             return False
     # Didn't find any failures, so must be OK.
