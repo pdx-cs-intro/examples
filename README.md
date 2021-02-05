@@ -20,3 +20,5 @@ State University.
 * `file-for.py`: Example of reading a file line-at-a-time.
 * `countfile.py`: Example of writing a file line-at-a-time.
 * `8-ball-files/`: Mattel Magic 8-Ball™ simulator with configuration files.
+* `linecount.py`: Count lines of input on `stdin`.
+* `upper.py`: Translate `stdin` to uppercase on `stdout`.
