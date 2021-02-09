@@ -22,3 +22,4 @@ State University.
 * `8-ball-files/`: Mattel Magic 8-Ball™ simulator with configuration files.
 * `linecount.py`: Count lines of input on `stdin`.
 * `upper.py`: Translate `stdin` to uppercase on `stdout`.
+* `picnic-game/`: Picnic Game homework lecture code.
