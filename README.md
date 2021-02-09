@@ -23,3 +23,4 @@ State University.
 * `linecount.py`: Count lines of input on `stdin`.
 * `upper.py`: Translate `stdin` to uppercase on `stdout`.
 * `picnic-game/`: Picnic Game homework lecture code.
+* `mymin.py`: Implementation of `min()`.
