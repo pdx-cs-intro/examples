@@ -24,3 +24,4 @@ State University.
 * `upper.py`: Translate `stdin` to uppercase on `stdout`.
 * `picnic-game/`: Picnic Game homework lecture code.
 * `mymin.py`: Implementation of `min()`.
+* `lengthorder.py`: Sort strings by increasing length.
