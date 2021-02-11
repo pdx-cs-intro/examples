@@ -25,3 +25,5 @@ State University.
 * `picnic-game/`: Picnic Game homework lecture code.
 * `mymin.py`: Implementation of `min()`.
 * `lengthorder.py`: Sort strings by increasing length.
+* `sum.py`: Sum numbers on stdin.
+* `randnums.py`: Print 10000 random floats.
