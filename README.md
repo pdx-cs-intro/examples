@@ -27,3 +27,4 @@ State University.
 * `lengthorder.py`: Sort strings by increasing length.
 * `sum.py`: Sum numbers on stdin.
 * `randnums.py`: Print 10000 random floats.
+* `countvowels.py`: Count vowels using sets.
