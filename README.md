@@ -28,3 +28,5 @@ State University.
 * `sum.py`: Sum numbers on stdin.
 * `randnums.py`: Print 10000 random floats.
 * `countvowels.py`: Count vowels using sets.
+* `countletters.py`: Count letters using dicts.
+* `lettercounter.py`: Count letters using Counter.
