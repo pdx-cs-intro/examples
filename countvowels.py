@@ -4,7 +4,10 @@ def vowel_count(s):
     for c in s.lower():
         if c in vowels:
             nvowels = nvowels + 1
+    assert nvowels <= len(s)
     return nvowels
 
-assert vowel_count("Hello World") == 3
-assert vowel_count("APOCALYPSE") == 4
+assert vowel_count("") == 0
+assert vowel_count("x") == 0
+assert vowel_count("a") == 1
+assert vowel_count("xaxexixoxux") == 5
