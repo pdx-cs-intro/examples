@@ -30,4 +30,5 @@ State University.
 * `countvowels.py`: Count vowels using sets.
 * `histogram.py`: Count letters using dicts.
 * `counterhist.py`: Count letters using Counter.
-* `englishlist.py`: Print a list in "English" syntax
+* `englishlist.py`: Print a list in "English" syntax.
+* `multiprinter.py`: Simple object demo.
