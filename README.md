@@ -32,5 +32,6 @@ State University.
 * `counterhist.py`: Count letters using Counter.
 * `englishlist.py`: Print a list in "English" syntax.
 * `multiprinter.py`: Simple object demo.
+* `weird_print.py`: Fancier version of multiprinter demo.
 * `lc.py`: Command-line argument parsing demo.
 * `lc2.py`: Command-line argument parsing demo using `argparse`.
