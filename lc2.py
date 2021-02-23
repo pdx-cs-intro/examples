@@ -6,26 +6,28 @@ import argparse, sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-    "--nonblank",
     "-n",
+    "--nonblank",
     help="count only non-blank lines",
     action="store_true",
 )
 parser.add_argument(
-    "--countfile",
-    "-f",
-    help="count the given file",
-    type=str,
+    "files",
+    metavar="FILE",
+    help="files to count",
+    type=argparse.FileType('r', encoding='utf-8'),
+    nargs='*',
 )
 args = parser.parse_args()
 
-if args.countfile is not None:
-    count_file = open(args.countfile, "r")
+if args.files == []:
+    files = [sys.stdin]
 else:
-    count_file = sys.stdin
+    files = args.files
 
 count = 0
-for line in count_file:
-    if not args.nonblank or line.strip() != "":
-        count = count + 1
+for count_file in files:
+    for line in count_file:
+        if not args.nonblank or line.strip() != "":
+            count = count + 1
 print(count)
