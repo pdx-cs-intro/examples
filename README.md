@@ -35,3 +35,4 @@ State University.
 * `weird_print.py`: Fancier version of multiprinter demo.
 * `lc.py`: Command-line argument parsing demo.
 * `lc2.py`: Command-line argument parsing demo using `argparse`.
+* `gauss.py`: Gauss's Sum debugging example.
