@@ -1,9 +1,9 @@
 # Magic 8-Ball Made Configurable
 Bart Massey
 
-The program in this directory is the Mattel Magic
-8-Ball™ simulator from the homework, altered to take its
-prompts and responses from files.
+The program in this directory is a Mattel Magic 8-Ball™
+simulator, altered to take its prompts and responses from
+files.
 
 * `8-ball.py`: The Magic 8-Ball simulator.
 * `prompts.txt`: List of possible prompts, one per line.
