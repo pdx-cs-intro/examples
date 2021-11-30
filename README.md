@@ -37,3 +37,4 @@ State University.
 * `lc2.py`: Command-line argument parsing demo using `argparse`.
 * `gauss.py`: Gauss's Sum debugging example.
 * `bigpal.py`: Algorithm benchmarking demo.
+* `snowflake.py`: Snowflake curve using turtle graphics.
