@@ -1,4 +1,4 @@
-# Magic Eight Ball featuring configuration files
+# Magic Eight Ball(TM) simulator featuring configuration files
 # Bart Massey 2021
 
 import random
@@ -7,7 +7,7 @@ import random
 def read_list(filename):
     f = open(filename, "r")
     contents = f.read()
-    result = contents.split("\n")
+    result = contents.splitlines()
     f.close()
     return result
 
