@@ -38,4 +38,4 @@ State University.
 * `gauss.py`: Gauss's Sum debugging example.
 * `bigpal.py`: Algorithm benchmarking demo.
 * `snowflake.py`: Snowflake curve using turtle graphics.
-* `playsndfile/`: Simple `playsound` examples.
+* `sound/`: Sound examples using `playsound`.
